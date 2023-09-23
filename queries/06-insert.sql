@@ -8,7 +8,7 @@ INSERT INTO songs (
     )
 VALUES (
     "Endless, Nameless",
-    13,
+    "13",
     6,
     9
 );
